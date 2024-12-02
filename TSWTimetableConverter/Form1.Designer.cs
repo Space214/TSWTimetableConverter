@@ -48,15 +48,17 @@
             // ToConvert_TB
             // 
             this.ToConvert_TB.Location = new System.Drawing.Point(95, 12);
+            this.ToConvert_TB.MaxLength = 32767000;
             this.ToConvert_TB.Multiline = true;
             this.ToConvert_TB.Name = "ToConvert_TB";
             this.ToConvert_TB.Size = new System.Drawing.Size(684, 213);
             this.ToConvert_TB.TabIndex = 1;
-            this.ToConvert_TB.Text = "Copy Unofficial Timetable Here (32767 Char Limit)";
+            this.ToConvert_TB.Text = "Copy Unofficial Timetable Here";
             // 
             // Converted_TB
             // 
             this.Converted_TB.Location = new System.Drawing.Point(95, 231);
+            this.Converted_TB.MaxLength = 32767000;
             this.Converted_TB.Multiline = true;
             this.Converted_TB.Name = "Converted_TB";
             this.Converted_TB.Size = new System.Drawing.Size(684, 399);

@@ -221,7 +221,14 @@ namespace TSWTimetableConverter
                 }
                 if (str.Contains("InstructionData"))
                 {
-                    ConvertedLines.Add(str.Replace("InstructionData", "Instruction"));
+                    if (str.Contains("bIsStopping=True"))
+                    {
+                        ConvertedLines.Add(str.Replace("InstructionData", "Instruction"));
+                    }
+                    else
+                    {
+                        ConvertedLines.Add(str.Replace("InstructionData", "Instruction").Replace("e)", "e,bIsStopping=False)"));
+                    }
                 }
                 if (str.Contains("NodePos") || str.Contains("NodeGuid"))
                 {

@@ -1,0 +1,11 @@
+C:\Users\space\source\repos\TSWTimetableConverter\TSWTimetableConverter\bin\Debug\TSWTimetableConverter.exe.config
+C:\Users\space\source\repos\TSWTimetableConverter\TSWTimetableConverter\bin\Debug\TSWTimetableConverter.exe
+C:\Users\space\source\repos\TSWTimetableConverter\TSWTimetableConverter\bin\Debug\TSWTimetableConverter.pdb
+C:\Users\space\source\repos\TSWTimetableConverter\TSWTimetableConverter\obj\Debug\TSWTimetableConverter.csproj.AssemblyReference.cache
+C:\Users\space\source\repos\TSWTimetableConverter\TSWTimetableConverter\obj\Debug\TSWTimetableConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\space\source\repos\TSWTimetableConverter\TSWTimetableConverter\obj\Debug\TSWTimetableConverter.Form1.resources
+C:\Users\space\source\repos\TSWTimetableConverter\TSWTimetableConverter\obj\Debug\TSWTimetableConverter.Properties.Resources.resources
+C:\Users\space\source\repos\TSWTimetableConverter\TSWTimetableConverter\obj\Debug\TSWTimetableConverter.csproj.GenerateResource.cache
+C:\Users\space\source\repos\TSWTimetableConverter\TSWTimetableConverter\obj\Debug\TSWTimetableConverter.csproj.CoreCompileInputs.cache
+C:\Users\space\source\repos\TSWTimetableConverter\TSWTimetableConverter\obj\Debug\TSWTimetableConverter.exe
+C:\Users\space\source\repos\TSWTimetableConverter\TSWTimetableConverter\obj\Debug\TSWTimetableConverter.pdb
